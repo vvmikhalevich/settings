@@ -1,0 +1,5 @@
+db:
+  url: jdbc:postgresql://production-host:5432/player
+
+player:
+  max-playlists: 5000
